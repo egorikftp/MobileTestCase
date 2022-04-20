@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="windowBackground">#FF393939</color>
+
+    <color name="colorPlaceholder">#383C40</color>
+</resources>

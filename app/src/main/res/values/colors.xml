@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FFFFFF</color>
+
+    <color name="immersive_sys_ui">#33393939</color>
+    <color name="nav_bar">@color/immersive_sys_ui</color>
+    <color name="windowBackground">#F2F2F7</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="colorPlaceholder">#EBEDF0</color>
+</resources>

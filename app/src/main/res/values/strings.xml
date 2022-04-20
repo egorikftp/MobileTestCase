@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile Test Case</string>
+
+    <string name="catalog_id_template">ID: %s</string>
+    <string name="catalog_confidence_template">Confidence: %s</string>
+
+    <string name="adapter_item_catalog_footer_retry">Retry</string>
+</resources>
